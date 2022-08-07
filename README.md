@@ -1,18 +1,18 @@
 # &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Customer Churn Prediction
 
 
-#### Dataset Description:
+#### Dataset Description (Shweta):
 
 
-#### EDA:
+#### EDA (Krishna):
 
 - Correlation, Features, Dataset Skewness etc.
 
-#### Goal:
+#### Goal (Krishna):
 
 - Reason why we are doing, project ecplainations and what it aims to do. 
 
-#### Hypothesis:
+#### Hypothesis (Shweta):
 
 - What are we trying to look at?
 - Who care and what are we doing to address the issues
