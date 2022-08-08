@@ -1,4 +1,4 @@
-# &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Customer Churn Prediction
+# &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Customer Churn Prediction
 
 #### Introduction:
 
@@ -8,9 +8,25 @@ Carrying this notion in mind we are aiming to take the first step in this quest 
 
 #### Dataset Description (Shweta):
 
-The dataset we are working with on for this project contains 12 features and about 10000 rows of customer data from a bank in Europe. 
+The dataset we are working with on for this project contains 12 features and about 10000 rows of customer data from a bank in Europe (specifically Spain, Germany & France).
 
    <img width="654" alt="image" src="https://user-images.githubusercontent.com/102252835/183488857-40f0c92b-beb5-4a71-bfb7-10c556647c2e.png">
+
+The features in this data set are as follows:
+•	customer_id, (Numerical)
+•	credit_score, (Numerical)
+•	country, (Categorical) 
+•	gender, (Categorical)
+•	age, (Numerical)
+•	tenure, (Numerical)
+•	balance, (Numerical)
+•	products_number, (Numerical)
+•	credit_card, (Numerical)
+•	active_member, (Numerical)
+•	estimated_salary, (Numerical)
+•	churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
+
+The data these columns signify are self-explanatory.
 
 #### EDA:
 
