@@ -1,8 +1,16 @@
 # &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Customer Churn Prediction
 
+#### Introduction:
+
+Customer retention appears to be a crucial & fundamental necessity for every business, given the significance of customers as the most valuable assets of enterprises. Banks are no exception to this rule.  Customer retention is more important than ever given the competitive environment in which multiple banks are competing to provide various facilities including electronic banking services to stand out among the rest.
+
+Carrying this notion in mind we are aiming to take the first step in this quest of finding the slips of the enterprise by finding out the customer churn rate (Churning refers to a customer who leaves one company to go to another company) which in turn will sketch the picture of how the enterprise is performing in current market scenario and then finding the reason of fallouts and hopefully implementing improvements to reverse the current situation. 
 
 #### Dataset Description (Shweta):
 
+The dataset we are working with on for this project contains 12 features and about 10000 rows of customer data from a bank in Europe. 
+
+<img width="654" alt="image" src="https://user-images.githubusercontent.com/102252835/183488857-40f0c92b-beb5-4a71-bfb7-10c556647c2e.png">
 
 #### EDA:
 
