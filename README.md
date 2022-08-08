@@ -10,7 +10,7 @@ Carrying this notion in mind we are aiming to take the first step in this quest 
 
 The dataset we are working with on for this project contains 12 features and about 10000 rows of customer data from a bank in Europe. 
 
-<img width="654" alt="image" src="https://user-images.githubusercontent.com/102252835/183488857-40f0c92b-beb5-4a71-bfb7-10c556647c2e.png">
+!<img width="654" alt="image" src="https://user-images.githubusercontent.com/102252835/183488857-40f0c92b-beb5-4a71-bfb7-10c556647c2e.png">
 
 #### EDA:
 
