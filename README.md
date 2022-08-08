@@ -6,25 +6,25 @@ Customer retention appears to be a crucial & fundamental necessity for every bus
 
 Carrying this notion in mind we are aiming to take the first step in this quest of finding the slips of the enterprise by finding out the customer churn rate (Churning refers to a customer who leaves one company to go to another company) which in turn will sketch the picture of how the enterprise is performing in current market scenario and then finding the reason of fallouts and hopefully implementing improvements to reverse the current situation. 
 
-#### Dataset Description (Shweta):
+#### Dataset Description:
 
 The dataset we are working with on for this project contains 12 features and about 10000 rows of customer data from a bank in Europe (specifically Spain, Germany & France).
 
    <img width="654" alt="image" src="https://user-images.githubusercontent.com/102252835/183488857-40f0c92b-beb5-4a71-bfb7-10c556647c2e.png">
 
 The features in this data set are as follows:
-•	customer_id, (Numerical)
-•	credit_score, (Numerical)
-•	country, (Categorical) 
-•	gender, (Categorical)
-•	age, (Numerical)
-•	tenure, (Numerical)
-•	balance, (Numerical)
-•	products_number, (Numerical)
-•	credit_card, (Numerical)
-•	active_member, (Numerical)
-•	estimated_salary, (Numerical)
-•	churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
+-	customer_id, (Numerical)
+-	credit_score, (Numerical)
+-	country, (Categorical) 
+-	gender, (Categorical)
+-	age, (Numerical)
+-	tenure, (Numerical)
+-	balance, (Numerical)
+-	products_number, (Numerical)
+-	credit_card, (Numerical)
+-	active_member, (Numerical)
+-	estimated_salary, (Numerical)
+-	churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
 
 The data these columns signify are self-explanatory.
 
