@@ -34,9 +34,12 @@ This is a classification problem where we are trying to classify and visualize t
 
 To accomplish this task we are leveraging various Supervised Machine Learning methods mentioned below:
 
--Naive Bayesian   -LightGBM
--SVM              -Perceptron
--XGBoost          -NeuralNets  
+-Naive Bayesian   
+-SVM              
+-XGBoost
+-LightGBM
+-Perceptron
+-NeuralNets  
 
 Thereafter, we plan to analyze and compare their performance which in turn will help us answer which among all are/is an efficient predictor for the given dataset, the feature that most affects the clients/users decision to leave and simultaneaously find the current churn rate of the enterprise and suggest improvements.
 
