@@ -10,10 +10,11 @@ from sklearn.metrics import confusion_matrix
 def lightGBM_Classifier(X_train, X_test, y_train, y_test):
     """
     :param X_train: Feature Set for Training
-    :param X_test:
-    :param y_train:
-    :param y_test:
-    :return:
+    :param X_test: Feature Set for Testing
+    :param y_train: Target Label for Training
+    :param y_test: Target Label for Testing
+    :return: Returns precision, recall, f1-score, support, True Positives(TP), True Negatives(TN), False Positives(FP),
+    False Negatives(FN), accuracy, macro avg, weighted avg
     """
 
     clf = lgb.LGBMClassifier()
